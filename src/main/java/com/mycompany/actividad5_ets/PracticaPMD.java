@@ -10,8 +10,8 @@ public class PracticaPMD {
  public static void main(String[] args) {
 
         
-        int alturaUno = 89;
-        if (alturaUno > 89) {
+        int altura = 89;
+        if (altura > 89) {
             System.out.println("Eres muy alto");
         }
         PracticaPMD ejemPMD = new PracticaPMD();
